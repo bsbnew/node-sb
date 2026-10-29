@@ -7,7 +7,7 @@ const PRESET_SUB            = '';
 const PRESET_ARGO_DOMAIN    = '';
 const PRESET_ARGO_AUTH      = '';
 // ── 填 'true' 禁用 Argo，留空则启用 ──
-const PRESET_DISABLE_ARGO   = 'ture';
+const PRESET_DISABLE_ARGO   = 'true';
 // ── 可选协议，填写端口则启动对应协议，留空不启动 ──
 const PRESET_HY2_PORT       = '';
 const PRESET_TUIC_PORT      = '';
